@@ -4,11 +4,11 @@ A clean and interactive finance dashboard built with React and CSS.
 
 ## Live Demo
 
-[Add your deployment link here]
+https://zorvyn-finance-dashboard-red.vercel.app
 
 ## Repository
 
-[Add your GitHub link here]
+https://github.com/Bugmita-Bora/zorvyn-finance-dashboard
 
 ---
 
