@@ -1,0 +1,208 @@
+.dark {
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
+
+.dark .navbar {
+  background-color: #1e293b;
+  border-bottom: 1px solid #334155;
+}
+
+.dark .navbar-brand h1 {
+  color: #818cf8;
+}
+
+.dark .navbar-role select {
+  background-color: #334155;
+  border-color: #475569;
+  color: #e2e8f0;
+}
+
+.dark .dark-toggle {
+  border-color: #475569;
+  color: #94a3b8;
+}
+
+.dark .dark-toggle:hover {
+  background-color: #334155;
+}
+
+.dark .sidebar {
+  background-color: #1e293b;
+  border-right-color: #334155;
+}
+
+.dark .sidebar-item {
+  color: #94a3b8;
+}
+
+.dark .sidebar-item:hover {
+  background-color: #334155;
+  color: #818cf8;
+}
+
+.dark .sidebar-item.active {
+  background-color: #312e81;
+  color: #818cf8;
+}
+
+.dark .page-content {
+  background-color: #0f172a;
+}
+
+.dark .summary-card {
+  background-color: #1e293b;
+  box-shadow: none;
+}
+
+.dark .card-title {
+  color: #94a3b8;
+}
+
+.dark .card-amount {
+  color: #f1f5f9;
+}
+
+.dark .chart-card {
+  background-color: #1e293b;
+  box-shadow: none;
+}
+
+.dark .chart-title {
+  color: #f1f5f9;
+}
+
+.dark .recharts-cartesian-grid-horizontal line,
+.dark .recharts-cartesian-grid-vertical line {
+  stroke: #334155;
+}
+
+.dark .recharts-text {
+  fill: #94a3b8;
+}
+
+.dark .transactions-page {
+  background-color: #1e293b;
+  box-shadow: none;
+}
+
+.dark .transactions-header h2 {
+  color: #f1f5f9;
+}
+
+.dark .transactions-table th {
+  color: #94a3b8;
+  border-bottom-color: #334155;
+}
+
+.dark .transactions-table td {
+  color: #cbd5e1;
+  border-bottom-color: #1e293b;
+}
+
+.dark .transactions-table tbody tr:hover {
+  background-color: #334155;
+}
+
+.dark .category-badge {
+  background-color: #334155;
+  color: #94a3b8;
+}
+
+.dark .month-separator td {
+  background-color: #162032;
+  border-color: #334155;
+}
+
+.dark .filter-bar select {
+  background-color: #334155;
+  border-color: #475569;
+  color: #e2e8f0;
+}
+
+.dark .search-box {
+  background-color: #334155;
+  border-color: #475569;
+}
+
+.dark .search-box input {
+  color: #e2e8f0;
+}
+
+.dark .modal {
+  background-color: #1e293b;
+}
+
+.dark .modal-header {
+  border-bottom-color: #334155;
+}
+
+.dark .modal-header h3 {
+  color: #f1f5f9;
+}
+
+.dark .modal-header button {
+  color: #94a3b8;
+}
+
+.dark .modal-footer {
+  border-top-color: #334155;
+}
+
+.dark .form-group label {
+  color: #94a3b8;
+}
+
+.dark .form-group input,
+.dark .form-group select {
+  background-color: #0f172a;
+  border-color: #334155;
+  color: #e2e8f0;
+}
+
+.dark .btn-cancel {
+  background-color: #334155;
+  border-color: #475569;
+  color: #94a3b8;
+}
+
+.dark .insights-page {
+  background-color: #1e293b;
+  box-shadow: none;
+}
+
+.dark .insights-title {
+  color: #f1f5f9;
+}
+
+.dark .insight-card {
+  background-color: #0f172a;
+  border-color: #334155;
+}
+
+.dark .insight-label {
+  color: #94a3b8;
+}
+
+.dark .insight-value {
+  color: #f1f5f9;
+}
+
+.dark .mobile-nav {
+  background-color: #1e293b;
+  border-top-color: #334155;
+}
+
+.dark .mobile-nav-item.active {
+  color: #818cf8;
+}
+
+.dark .btn-export {
+  background-color: transparent;
+  color: #818cf8;
+  border-color: #818cf8;
+}
+
+.dark .btn-export:hover {
+  background-color: #312e81;
+}
