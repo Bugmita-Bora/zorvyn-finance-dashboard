@@ -95,6 +95,7 @@ Used React Context API with useMemo for performance optimization. All global sta
 
 ## Project Structure
 
+```
 src/
 ├── components/
 │ ├── layout/
@@ -127,7 +128,7 @@ src/
 ├── main.jsx
 └── index.css
 
----
+```
 
 ## Assumptions Made
 
